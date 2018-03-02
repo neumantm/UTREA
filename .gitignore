@@ -1,0 +1,7 @@
+/target/*
+!/target/*.jar
+/bin/
+*.conf
+/logs/
+/data/
+/target/
