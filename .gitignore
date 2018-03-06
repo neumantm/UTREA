@@ -1,7 +1,7 @@
-/target/*
-!/target/*.jar
-/bin/
+*/target/*
+!*/target/*.jar
+*/bin/
 *.conf
-/logs/
-/data/
-/target/
+*/logs/
+*/data/
+
